@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My HTML Page</title>
+    <style>
+        /* CSS styles can be added here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        /* You can add more CSS styles as needed */
+    </style>
+</head>
+<body>
+
+    <!-- Your HTML content goes here -->
+    <h1>Welcome to My HTML Page</h1>
+    <p>This is a basic HTML template.</p>
+
+    <!-- JavaScript scripts can be added here -->
+    <script>
+        // JavaScript code can be added here
+        // Example: console.log("Hello, world!");
+    </script>
+</body>
+</html>
